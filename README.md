@@ -27,7 +27,7 @@
 
 ## 🧮 Contribution Stats
 
-<img src="https://raw.githubusercontent.com/wtgsoysa/wtgsoysa/main/github-stats.png" alt="Contribution Stats" />
+<img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/contribution-stats.png" alt="Contribution Stats" />
 
 🟢 **Total Stars Earned:** 4  
 🟢 **Total Commits (2025):** 214  
