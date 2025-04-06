@@ -54,7 +54,6 @@
 ### 🧩 Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" />
