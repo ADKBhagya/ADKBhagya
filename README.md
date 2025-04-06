@@ -31,15 +31,6 @@
 
 <table>
   <tr>
-    <td>
-      <ul>
-        <li>🌟 <strong>Total Stars Earned:</strong> 4</li>
-        <li>🕒 <strong>Total Commits (2025):</strong> 214</li>
-        <li>🔁 <strong>Total PRs:</strong> 24</li>
-        <li>❌ <strong>Total Issues:</strong> 0</li>
-        <li>📁 <strong>Contributed to (last year):</strong> 6</li>
-      </ul>
-    </td>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=ADKBhagya&show_icons=true&theme=radical&hide_border=true&rank_icon=github&custom_title=GitHub+Stats" />
     </td>
