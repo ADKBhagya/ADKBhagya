@@ -3,7 +3,9 @@
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adkbhagya&label=Profile%20views&color=0e75b6&style=flat" alt="adkbhagya" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=adkbhagya&label=Profile%20views&color=0e75b6&style=flat" alt="adkbhagya" />
+</p>
 
 ---
 
@@ -27,16 +29,41 @@
 
 ## 🧮 Contribution Stats
 
-<img src="https://raw.githubusercontent.com/ADKBhagya/ADKBhagya/main/contribution-stats.png" alt="Contribution Stats" />
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🌟 <strong>Total Stars Earned:</strong> 4</li>
+        <li>🕒 <strong>Total Commits (2025):</strong> 214</li>
+        <li>🔁 <strong>Total PRs:</strong> 24</li>
+        <li>❌ <strong>Total Issues:</strong> 0</li>
+        <li>📁 <strong>Contributed to (last year):</strong> 6</li>
+      </ul>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=ADKBhagya&show_icons=true&theme=radical&hide_border=true&rank_icon=github&custom_title=GitHub+Stats" />
+    </td>
+  </tr>
+</table>
 
-🟢 **Total Stars Earned:** 4  
-🟢 **Total Commits (2025):** 214  
-🟢 **Total PRs:** 24  
-🟢 **Total Issues:** 0  
-🟢 **Contributed to (last year):** 6  
-🟢 **Current Streak:** 8 days  
-🟢 **Longest Streak:** 15 days  
-🟢 **Total Contributions:** 570
+---
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADKBhagya&theme=radical&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADKBhagya&layout=compact&theme=radical&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🔥 GitHub Activity Graph
+
+[![Kaushani's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ADKBhagya&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -72,4 +99,3 @@
 </p>
 
 ---
-
