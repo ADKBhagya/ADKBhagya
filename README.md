@@ -9,19 +9,19 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:adkbhagya13@gmail.com" target="_blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="30" />
   </a>&nbsp;&nbsp;
   
-  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+  <a href="https:[[//linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/kaushani-bhagya-696a202a6/)"](https://www.linkedin.com/in/kaushani-bhagya-696a202a6/) target="_blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30" />
   </a>&nbsp;&nbsp;
   
-  <a href="https://facebook.com/your-facebook-username" target="_blank">
+  <a href="https:[[//facebook.com/your-facebook-username](https://www.facebook.com/share/16HPUVGiub/)"](https://www.facebook.com/share/16HPUVGiub/) target="_blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" height="30" width="30" />
   </a>&nbsp;&nbsp;
   
-  <a href="https://instagram.com/kaushi_bhagya" target="_blank">
+  <a href=["https://instagram.com/kaushi_bhagya"](https://www.instagram.com/bhagya_aluthge?utm_source=qr&igsh=anhwcDczeHNsYTlp) target="_blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" height="30" width="30" />
   </a>
 </p>
