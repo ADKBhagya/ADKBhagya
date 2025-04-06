@@ -17,7 +17,4 @@
 
 ---
 
-💬 Let's connect and grow together!  
-📧 Email: kaushanics@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) | [Portfolio](https://your-portfolio.com)
 
