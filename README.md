@@ -60,12 +60,6 @@ I'm a Computer Science undergraduate and QA Engineer Intern passionate about bui
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ADKBhagya&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADKBhagya&layout=compact&theme=midnight-purple&hide_border=true" height="160"/>
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=ADKBhagya&theme=midnight-purple&hide_border=true" height="160"/>
 </div>
 
